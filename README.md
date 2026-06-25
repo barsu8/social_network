@@ -98,7 +98,3 @@ docker-compose exec web python manage.py loaddata fixtures.json
 ```
 docker-compose exec web python manage.py createsuperuser
 ```
-
-
-### Автор проекта:
-Петухов Артем [Github](https://github.com/mityasun)
